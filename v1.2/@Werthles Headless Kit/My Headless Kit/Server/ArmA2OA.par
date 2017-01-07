@@ -1,0 +1,15 @@
+class Arg
+{
+	server="-server";
+	port="-port=2302";
+    
+	config="-config=My Headless Kit\Server\WerthlesHeadless_config.cfg";
+	cfg="-cfg=My Headless Kit\Server\WerthlesHeadless_basic.cfg";
+	profiles="-profiles=My Headless Kit\Server\Profiles";
+	name="-name=WerthlesHeadlessServer";
+
+	mod="-mod=@ExampleMod1;@ExampleMod2;@ExampleMod3";
+	serverMod="-serverMod=@ExampleMod1;@ExampleMod2;@ExampleMod3";
+
+	ranking="-ranking=My Headless Kit\Server\ranking.log";
+};
