@@ -1,0 +1,6 @@
+To get the number of units on the HCs at any point,
+execute this command on the server,
+using the debug console
+(must be logged in as admin or hosting, with debug console turned on in description.ext):
+
+[str WHKHeadlessLocalCounts,"hintSilent",true,false] call BIS_fnc_MP;

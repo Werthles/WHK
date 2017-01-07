@@ -1,0 +1,63 @@
+***************************************************************************************************
+******************************  -  Generalised Shortcut Targets  -  *******************************
+***************************************************************************************************
+
+- Replace <Installation Path> with your Arma 3/Arma 3 Server installation folder location.
+- See the default examples in the second section if you have these installed in the default location.
+- Use these lines as your shortcut TARGET
+
+Generalised Location, Windows 32-bit, Arma 3, Dedicated Server:
+"<Installation Path>\Arma 3\arma3server.exe" "-par=My Headless Kit\Server\ArmA2OA.par"
+
+Generalised Location, Windows 32-bit, Arma 3, Headless Client:
+"<Installation Path>\Arma 3\arma3server.exe" "-par=My Headless Kit\Headless Client\ArmA2OA.par"
+
+Generalised Location, Windows 32-bit, Arma 3 Server, Dedicated Server:
+"<Installation Path>\Arma 3 Server\arma3server.exe" "-par=My Headless Kit\Server\ArmA2OA.par"
+
+Generalised Location, Windows 32-bit, Arma 3 Server, Headless Client:
+"<Installation Path>\Arma 3 Server\arma3server.exe" "-par=My Headless Kit\Headless Client\ArmA2OA.par"
+
+Generalised Location, Windows 64-bit, Arma 3, Dedicated Server:
+"<Installation Path>\Arma 3\arma3server.exe" "-par=My Headless Kit\Server\ArmA2OA.par"
+
+Generalised Location, Windows 64-bit, Arma 3, Headless Client:
+"<Installation Path>\Arma 3\arma3server.exe" "-par=My Headless Kit\Headless Client\ArmA2OA.par"
+
+Generalised Location, Windows 64-bit, Arma 3 Server, Dedicated Server:
+"<Installation Path>\Arma 3 Server\arma3server.exe" "-par=My Headless Kit\Server\ArmA2OA.par"
+
+Generalised Location, Windows 64-bit, Arma 3 Server, Headless Client:
+"<Installation Path>\Arma 3 Server\arma3server.exe" "-par=My Headless Kit\Headless Client\ArmA2OA.par"
+
+
+***************************************************************************************************
+**************  -  Shortcut Targets For The Steam Default Installation Locations  -  **************
+***************************************************************************************************
+
+- These shortcut targets should work if you have Arma 3/Arma 3 Server and steam installed in their default locations.
+- Use these lines as your shortcut TARGET
+
+Default Location, Windows 32-bit, Arma 3, Dedicated Server:
+"C:\Program Files\Steam\SteamApps\common\Arma 3\arma3server.exe" "-par=My Headless Kit\Server\ArmA2OA.par"
+
+Default Location, Windows 32-bit, Arma 3, Headless Client:
+"C:\Program Files\Steam\SteamApps\common\Arma 3\arma3server.exe" "-par=My Headless Kit\Headless Client\ArmA2OA.par"
+
+Default Location, Windows 32-bit, Arma 3 Server, Dedicated Server:
+"C:\Program Files\Steam\SteamApps\common\Arma 3 Server\arma3server.exe" "-par=My Headless Kit\Server\ArmA2OA.par"
+
+Default Location, Windows 32-bit,Arma 3 Server, Headless Client:
+"C:\Program Files\Steam\SteamApps\common\Arma 3 Server\arma3server.exe" "-par=My Headless Kit\Headless Client\ArmA2OA.par"
+
+Default Location, Windows 64-bit, Arma 3, Dedicated Server:
+"C:\Program Files (x86)\Steam\SteamApps\common\Arma 3\arma3server.exe" "-par=My Headless Kit\Server\ArmA2OA.par"
+
+Default Location, Windows 64-bit, Arma 3, Headless Client:
+"C:\Program Files (x86)\Steam\SteamApps\common\Arma 3\arma3server.exe" "-par=My Headless Kit\Headless Client\ArmA2OA.par"
+
+Default Location, Windows 64-bit, Arma 3 Server, Dedicated Server:
+"C:\Program Files (x86)\Steam\SteamApps\common\Arma 3 Server\arma3server.exe" "-par=My Headless Kit\Server\ArmA2OA.par"
+
+Default Location, Windows 64-bit, Arma 3 Server, Headless Client:
+"C:\Program Files (x86)\Steam\SteamApps\common\Arma 3 Server\arma3server.exe" "-par=My Headless Kit\Headless Client\ArmA2OA.par"

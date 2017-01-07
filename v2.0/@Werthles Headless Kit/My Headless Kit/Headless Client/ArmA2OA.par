@@ -1,0 +1,16 @@
+class Arg
+{
+	client="-client";
+	port="-port=2302";
+	localhost="-localhost=127.0.0.1";
+	connect="-connect=127.0.0.1";
+	password="-password=arma";
+    
+	name="-name=WerthlesHeadlessClient";
+	profile="-profile=My Headless Kit\Server\Profiles";
+
+	mod="-mod=@ExampleMod1;@ExampleMod2;@ExampleMod3";
+	serverMod="-serverMod=@ExampleMod1;@ExampleMod2;@ExampleMod3";
+	
+	nosound="-nosound";
+};
